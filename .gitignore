@@ -1,0 +1,14 @@
+bin/
+dist/
+
+# CUP + JFlex files
+src/compiler/generated/
+
+# Eclipse files
+.classpath
+.project
+.settings
+
+# Package Files #
+*.war
+*.ear
